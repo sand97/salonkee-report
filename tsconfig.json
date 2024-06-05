@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "lib": ["esnext"],
+    "esModuleInterop": true,
+  }
+}
